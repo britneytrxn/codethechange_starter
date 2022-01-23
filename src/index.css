@@ -28,3 +28,12 @@ body {
   border: none;
   font-size: 5rem;
 }
+
+.squares {
+  background: white;
+  color: black;
+  border: none;
+  font-size: 5rem;
+  cursor: pointer;
+  outline: none;
+}
